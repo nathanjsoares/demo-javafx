@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.core.builder.resourceCopyExclusionFilter=*.launch
+org.eclipse.jdt.core.classpathVariable.ANT_HOME=C\:/eclipse/plugins/org.apache.ant_1.10.1.v20170504-0840
+org.eclipse.jdt.core.classpathVariable.DB2_HOME=C\:/Program Files/IBM/SQLLIB/java
+org.eclipse.jdt.core.classpathVariable.ECLIPSE_HOME=C\:/estud/eclipse/
+org.eclipse.jdt.core.classpathVariable.JRE_LIB=C\:/Program Files (x86)/Java/jre1.8.0_221/lib/rt.jar
+org.eclipse.jdt.core.classpathVariable.JRE_SRC=
+org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
+org.eclipse.jdt.core.classpathVariable.JUNIT_HOME=C\:/estud/eclipse/plugins/org.junit_4.12.0.v201504281640/
+org.eclipse.jdt.core.classpathVariable.M2_REPO=C\:/Users/nathan.soares/.m2/repository
+org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled
+org.eclipse.jdt.core.userLibrary.JavaFX=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<userlibrary systemlibrary\="false" version\="2">\r\n\t<archive path\="C\:/java-libs/javafx-sdk/lib/javafx.base.jar"/>\r\n\t<archive path\="C\:/java-libs/javafx-sdk/lib/javafx.controls.jar"/>\r\n\t<archive path\="C\:/java-libs/javafx-sdk/lib/javafx.fxml.jar"/>\r\n\t<archive path\="C\:/java-libs/javafx-sdk/lib/javafx.graphics.jar"/>\r\n\t<archive path\="C\:/java-libs/javafx-sdk/lib/javafx.media.jar"/>\r\n\t<archive path\="C\:/java-libs/javafx-sdk/lib/javafx.swing.jar"/>\r\n\t<archive path\="C\:/java-libs/javafx-sdk/lib/javafx.web.jar"/>\r\n\t<archive path\="C\:/java-libs/javafx-sdk/lib/javafx-swt.jar"/>\r\n</userlibrary>\r\n
